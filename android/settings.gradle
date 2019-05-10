@@ -1,0 +1,3 @@
+rootProject.name = 'starting_over_3196'
+
+include ':app'
